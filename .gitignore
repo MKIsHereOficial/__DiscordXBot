@@ -105,6 +105,7 @@ dist
 
 # gitpod
 .gitpod.yml
+.gitpod.Dockerfile
 
 # quick.db 
 json.sqlite
